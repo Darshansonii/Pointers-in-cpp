@@ -39,6 +39,4 @@ Pointers provide direct interaction with memory, making programs faster and more
 
 In short, pointers bridge the gap between high-level programming and low-level memory control. Mastering them not only strengthens programming skills but also builds a strong foundation for working with advanced topics like dynamic memory allocation, data structures, and system-level applications.
 
----
 
-Do you want me to also make a **short Q\&A-style explanation** for each of the five tasks (like what’s happening in array reverse, pointer difference, etc.) instead of just listing them inside theory?
